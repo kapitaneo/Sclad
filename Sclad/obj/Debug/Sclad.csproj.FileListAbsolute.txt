@@ -1,0 +1,23 @@
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\Sclad.exe.config
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\Sclad.exe
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\Sclad.pdb
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.csprojResolveAssemblyReference.cache
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\MainWindow.g.cs
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\App.g.cs
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad_MarkupCompile.cache
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad_MarkupCompile.lref
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\MainWindow.baml
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.g.resources
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.Properties.Resources.resources
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.csproj.GenerateResource.Cache
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.exe
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\Sclad.pdb
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\EntityFramework.dll
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\EntityFramework.SqlServer.dll
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\EntityFramework.xml
+G:\Мои программы C#\Sclad\Sclad\bin\Debug\EntityFramework.SqlServer.xml
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\View.g.cs
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\View.baml
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\New sale.g.cs
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\New sale.baml
+G:\Мои программы C#\Sclad\Sclad\obj\Debug\GeneratedInternalTypeHelper.g.cs
